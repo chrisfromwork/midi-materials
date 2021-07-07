@@ -1,0 +1,22 @@
+{
+    "name": "midi-materials",
+    "title": "midi materials",
+    "version": "0.0.0",
+    "description": "",
+    "main": "index.ts",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/chrisfromwork/midi-materials.git"
+    },
+    "keywords": [
+        "midi",
+        "babylon.js"
+    ],
+    "author": "chrisfromwork",
+    "license": "MIT",
+    "readmeFilename": "../README.md",
+    "dependencies": {
+        "@babylonjs/core": "^5.0.0-alpha.30",
+        "midifile-ts": "^1.1.4"
+    }
+}
