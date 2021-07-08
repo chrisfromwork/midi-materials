@@ -16,6 +16,7 @@
         "@babylonjs/materials": "preview",
         "@babylonjs/gui": "preview",
         "midi-materials": "file:../midi-materials",
+        "midifile-ts": "^1.1.4",
         "ts-loader": "^8.0.17",
         "typescript": "^4.2.3",
         "url-loader": "^4.1.1",

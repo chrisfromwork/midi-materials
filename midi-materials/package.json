@@ -15,7 +15,7 @@
     "author": "chrisfromwork",
     "license": "MIT",
     "readmeFilename": "../README.md",
-    "dependencies": {
+    "peerDependencies": {
         "@babylonjs/core": "^5.0.0-alpha.30",
         "midifile-ts": "^1.1.4"
     }

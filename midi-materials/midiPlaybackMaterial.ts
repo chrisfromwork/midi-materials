@@ -32,7 +32,6 @@ export class MidiPlaybackMaterial{
     }
 
     private _onNoteOn(event: NoteOnEvent) {
-        console.log(`NOTEON:${event.deltaTime}`);
         this.material.diffuseColor = new Color3(Math.random(), Math.random(), Math.random());
     }
 
